@@ -2,4 +2,4 @@
 
 - Check out my Recent project 🤖- **crush**
 - How To Reach me - kushagra.shukla396@gmail.com / https://www.linkedin.com/in/kushagra-shukla-846331238/
-- Tech 👨‍💻- Python , Rust , Frontend Developer :)
+- Tech 👨‍💻- Python , Ruby , Frontend Developer :)
